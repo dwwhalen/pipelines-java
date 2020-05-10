@@ -1,4 +1,6 @@
 
+[![Build Status](https://dwwhalen.visualstudio.com/DemoPipeline/_apis/build/status/dwwhalen.pipelines-java?branchName=master)](https://dwwhalen.visualstudio.com/DemoPipeline/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
